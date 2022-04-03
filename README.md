@@ -1,4 +1,4 @@
-This a personal project 
+This is a personal project 
 
 To do list app in PHP version 1.
 
