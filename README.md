@@ -8,7 +8,6 @@ script.php file execute POST requests from index.php.
 index.php main file where allow the HTML.
 Files dir allow the CSS.
 
-Project created in MAMP virtualhost.
 
 Project created in MAMP virtualhost.
 
