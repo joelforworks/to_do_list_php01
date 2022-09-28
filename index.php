@@ -9,6 +9,7 @@
 	</style>
 </head>
 <body>
+  <!-- Form send the task to database -->
 	<div id="content">
 		<div id="content-form">
 			<form action="./script.php" method="post">
@@ -16,6 +17,7 @@
 				<input type="submit" value="add">
 			</form>
 		</div>
+    <!-- show all task   -->
 		<div id="content-list">
 			<ul>
 				<?php $query->data_seek(0) ?>
