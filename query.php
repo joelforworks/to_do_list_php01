@@ -1,5 +1,6 @@
 <?php
 
+// file contain the database connection 
 include('connection.php');
 
 // query get all task from database

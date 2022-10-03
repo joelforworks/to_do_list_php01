@@ -1,5 +1,6 @@
 <?php
 header('Location: index.php');
+// file contain the database connection 
 include('connection.php');
 // When submit text form insert task to database
 if(isset($_POST['text'])){
